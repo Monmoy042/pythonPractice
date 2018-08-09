@@ -14,3 +14,8 @@ print(name)
 
 real_num = 15.5
 print real_num
+
+# User define input
+a = int(raw_input())
+b = int(raw_input())
+print a+b 
