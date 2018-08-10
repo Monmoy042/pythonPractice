@@ -1,6 +1,7 @@
 # pythonLearn
 Basics of python learning
 
+**Sequence of the files**
 1. first.py
 2. variable.py
 3. string.py
@@ -13,3 +14,5 @@ Basics of python learning
 10. set_new.py
 11. dictionary.py
 12. practice1.py
+13. own_function.py
+14. operation.py
